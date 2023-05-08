@@ -1,3 +1,7 @@
 Ryan Stettnisch
 
+<<<<<<< HEAD
 rstettni@villanova.edu
+=======
+Stephen Smith
+>>>>>>> 7457fcaaa5a7bdd795275208a2afdaf0eb26904c
